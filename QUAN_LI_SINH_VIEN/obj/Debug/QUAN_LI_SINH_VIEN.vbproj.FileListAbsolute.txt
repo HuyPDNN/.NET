@@ -1,0 +1,178 @@
+C:\Users\Admin\Desktop\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\bin\Debug\QUAN_LI_SINH_VIEN.exe.config
+C:\Users\Admin\Desktop\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\bin\Debug\QUAN_LI_SINH_VIEN.exe
+C:\Users\Admin\Desktop\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\bin\Debug\QUAN_LI_SINH_VIEN.pdb
+C:\Users\Admin\Desktop\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\bin\Debug\QUAN_LI_SINH_VIEN.xml
+C:\Users\Admin\Desktop\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.vbprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.Form1.resources
+C:\Users\Admin\Desktop\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.formsinhvien.resources
+C:\Users\Admin\Desktop\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.Resources.resources
+C:\Users\Admin\Desktop\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.exe
+C:\Users\Admin\Desktop\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.xml
+C:\Users\Admin\Desktop\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.pdb
+E:\VPnet\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\bin\Debug\QUAN_LI_SINH_VIEN.exe.config
+E:\VPnet\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\bin\Debug\QUAN_LI_SINH_VIEN.exe
+E:\VPnet\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\bin\Debug\QUAN_LI_SINH_VIEN.pdb
+E:\VPnet\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\bin\Debug\QUAN_LI_SINH_VIEN.xml
+E:\VPnet\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.Form1.resources
+E:\VPnet\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.formsinhvien.resources
+E:\VPnet\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.Resources.resources
+E:\VPnet\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.vbproj.GenerateResource.Cache
+E:\VPnet\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.exe
+E:\VPnet\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.xml
+E:\VPnet\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.pdb
+E:\VPnet\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.vbprojResolveAssemblyReference.cache
+E:\VPnet\QUAN_LI_SINH_VIEN\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.Form2.resources
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\QUAN_LI_SINH_VIEN.exe.config
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\QUAN_LI_SINH_VIEN.exe
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\QUAN_LI_SINH_VIEN.pdb
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\QUAN_LI_SINH_VIEN.xml
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\EnvDTE.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\stdole.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.MSXML.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.vbprojResolveAssemblyReference.cache
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.Form1.resources
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.Form4.resources
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.Resources.resources
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.vbproj.GenerateResource.Cache
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\RdlCompile.cache
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\RdlCompile.compiled
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.exe
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.xml
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.pdb
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.report.resources
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.xemtt.resources
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.Form2.resources
+E:\VPnet\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.Login.resources
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\QUAN_LI_SINH_VIEN.exe.config
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\QUAN_LI_SINH_VIEN.exe
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\QUAN_LI_SINH_VIEN.pdb
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\QUAN_LI_SINH_VIEN.xml
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\EnvDTE.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\stdole.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\Microsoft.MSXML.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.vbprojResolveAssemblyReference.cache
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.Form1.resources
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.Form2.resources
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.Form4.resources
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.Login.resources
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.Resources.resources
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.report.resources
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.xemtt.resources
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.vbproj.GenerateResource.Cache
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.exe
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.xml
+E:\Vb.net\Phạm Đinh Ngô Nhật Huy_T4-T34\QUAN_LI_SINH_VIEN\obj\Debug\QUAN_LI_SINH_VIEN.pdb
